@@ -34,7 +34,7 @@ Scope:
 
 - [ ] Learn at least one text-based editor well. Ideally Vim (`vi`), as there's really no competition for random editing in a terminal (even if you use Emacs, a big IDE, or a modern hipster editor most of the time).
 
-- [ ] Learn about redirection of output and input using `>` and `<` and pipes using `|`. Learn about stdout and stderr.
+- [x] Learn about redirection of output and input using `>` and `<` and pipes using `|`. Learn about stdout and stderr.
 
 - [ ] Learn about file glob expansion with `*` (and perhaps `?` and `{`...`}`) and quoting and the difference between double `"` and single `'` quotes. (See more on variable expansion below.)
 
